@@ -101,5 +101,8 @@ body{
     .quote-author{
         font-size: 1rem;
     }
+    .btn-newQuote{
+        font-size: 0.8rem;
+    }
     
 }
