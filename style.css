@@ -112,17 +112,22 @@ body{
       display: none !important;
 }
 @media screen and (max-width: 990px){
-    .quoteBox{
-        width: 80%;
+    #quote-Box{
+        width: 85%;
          }
     .quote-text{
-        font-size: 1.5rem;
+        font-size: 1.0rem;
     }
     .quote-author{
-        font-size: 1rem;
+        font-size: 0.8rem;
+        font-weight: 600;
+        
     }
     .btn-newQuote{
         font-size: 0.8rem;
+    }
+    .fa-twitter{
+        font-size: 1.1rem;
     }
     
 }
